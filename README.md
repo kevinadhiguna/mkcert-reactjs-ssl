@@ -42,3 +42,5 @@ Please replace `{CERT-PATH}` and `{KEY-PATH}` to yours. It will be generated aft
 ## Acknowledgement
 - [mkcert](https://github.com/FiloSottile/mkcert)
 - [Bits and Pieces - Using HTTPS for Local Development for React, Angular, and Node](https://blog.bitsrc.io/using-https-for-local-development-for-react-angular-and-node-fdfaf69693cd)
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/mkcert-reactjs-ssl)](https://github.com/kevinadhiguna)
