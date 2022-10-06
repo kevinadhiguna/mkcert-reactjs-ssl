@@ -1,6 +1,6 @@
 # Mkcert ReactJS - SSL 🔒
 
-a React app using HTTPS for Local Development powered by [mkcert](https://github.com/FiloSottile/mkcert).
+a React app using HTTPS for Local Development (localhost) powered by [mkcert](https://github.com/FiloSottile/mkcert).
 
 <img src="https://i.ibb.co/z2pc6FH/react-app-HTTPS.png" />
 
